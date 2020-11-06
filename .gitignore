@@ -1,4 +1,5 @@
 rf-env
+node_modules
 
 *.log
 *.html
