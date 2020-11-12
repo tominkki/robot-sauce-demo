@@ -10,7 +10,7 @@ Part of course 5G00ET62-3002.
 * Create environment
   * ```virtualenv rf-env```
 * Activate environment
-  * ```source re-env/bin/activate```
+  * ```source rf-env/bin/activate```
 * Install dependencies
   * ``` pip install -r requirements.txt```
 * Install webdriver
